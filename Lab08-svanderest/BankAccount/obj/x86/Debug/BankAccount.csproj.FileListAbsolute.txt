@@ -1,0 +1,9 @@
+C:\Users\sebas\Documents\Lab08-svanderest\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\sebas\Documents\Lab08-svanderest\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\sebas\Documents\Lab08-svanderest\BankAccount\obj\x86\Debug\BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\Lab08-svanderest\BankAccount\obj\x86\Debug\BankAccount.FrmTestAccounts.resources
+C:\Users\sebas\Documents\Lab08-svanderest\BankAccount\obj\x86\Debug\BankAccount.Properties.Resources.resources
+C:\Users\sebas\Documents\Lab08-svanderest\BankAccount\obj\x86\Debug\BankAccount.csproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Lab08-svanderest\BankAccount\obj\x86\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Lab08-svanderest\BankAccount\obj\x86\Debug\BankAccount.exe
+C:\Users\sebas\Documents\Lab08-svanderest\BankAccount\obj\x86\Debug\BankAccount.pdb
